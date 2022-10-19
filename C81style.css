@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("imagrmmuseu.jpg");
+	background-size: cover;
+}
+
+#myCanvas{
+	background-color: rgb(255, 255, 255);
+	margin-left: -19px;
+	margin-top: 230px;
+}
+
